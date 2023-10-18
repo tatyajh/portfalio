@@ -2,8 +2,8 @@ import { Button } from "@mui/material";
 import styles from "./Bienvenida.module.css";
 
 export const Bienvenida = () => {
-    const numeroWhatsApp = "3197702892"; // Reemplaza con tu número de WhatsApp
-    const mensajeWhatsApp = "¡Hola! Estoy interesado en contactarte desde tu portafolio.";
+    const numeroWhatsApp = "3132465473"; 
+    const mensajeWhatsApp = "¡Hey there.";
 
     const enlaceWhatsApp = `https://api.whatsapp.com/send?phone=${numeroWhatsApp}&text=${encodeURIComponent(
       mensajeWhatsApp

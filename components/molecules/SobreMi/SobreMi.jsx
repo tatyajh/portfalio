@@ -17,10 +17,10 @@ export const SobreMi = () => {
           Graduated from Universidad de Antioquia, my journey in systems
           engineering introduced me to the vast horizons of the tech world.
           Though my initial tryst with programming was challenged by a tepid
-          experience with Java, I've since been captivated by the allure of web
+          experience with Java, I have since been captivated by the allure of web
           development. In a short span, React has transformed from mere code to
           my canvas, allowing me to paint digital masterpieces. When not
-          immersed in coding, you'll find me serenading the world with my
+          immersed in coding, you will find me serenading the world with my
           saxophone, embracing the rhythm of pole sport, or penning down my
           thoughts. My narrative is one of evolution, finding passion in
           unexpected corners of my profession and life.
